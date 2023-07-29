@@ -1,0 +1,117 @@
+
+body {
+    text-align: center;
+    
+    background-image: url("drumbg.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  
+  h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: 'Pinyon Script', cursive;
+font-family: 'Satisfy', cursive;
+
+   
+  
+  }
+  
+
+  
+  .w {
+   background-image: url("./images/tom1.png");
+  }
+  
+  .a {
+    background-image: url("./images/tom2.png");
+  }
+  
+  .s {
+    background-image: url("./images/tom3.png");
+  }
+  
+  .d {
+    background-image: url("./images/tom4.png");
+  }
+  
+  .j {
+    background-image: url("./images/snare.png");
+    
+  }
+  
+  .k {
+  
+    background-image: url("./images/crash.png");
+  }
+  
+  .l {
+    background-image: url("./images/kick.png");
+  }
+  
+  .set {
+    margin: 10% auto;
+  }
+  
+ 
+  
+  .pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+    transform: rotate(13deg);
+    
+}
+  
+  
+ 
+  
+  .drum {
+    outline: none;
+    border: 20px ;
+    font-size: 3rem;
+    font-family: 'Pinyon Script', cursive;
+    font-family: 'Satisfy', cursive;
+
+    line-height: 2;
+    font-weight: 600;
+    color: #383737;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 30px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+  }
+  
+
+ 
+  @media only screen and (max-width: 640px) {
+ 
+    body {
+      
+      background-image: url("drumbg.avif");
+    }
+  }
+  
+
+  @media only screen and (min-width: 641px) and (max-width: 1007px) {
+   
+    body {
+    
+      background-image: url("drumbg.avif");
+    }
+  }
+  
+ 
+  @media only screen and (min-width: 1008px) {
+
+    body {
+     
+      background-image: url("drumbg.avif");
+    }
+  }
+  
+
