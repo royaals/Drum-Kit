@@ -36,9 +36,9 @@ Background Image: The application features an attractive background image of a d
 ## 🛠 Skills
 
 
-**Programming Language:** C, C++, Java, Python
+**Programming Language:** C, C++, Java, Python, JavaScript
 
-**Front-end:** HTML, CSS, JavaScript ,React.js
+**Front-end:** HTML, CSS, React.js
 
 **Back-end:** Node.js, Express
 
